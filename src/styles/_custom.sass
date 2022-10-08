@@ -2,13 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 6%
+    right: 10%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 21%
+    right: 60%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 35%
+    right: 60%
 
 
 @keyframes float1
@@ -17,3 +22,122 @@
 
   100%
     transform: translateY(0px)
+
+//Estilos Adicionales
+
+.cajonIntro
+  position: relative
+  &:before
+    content: ''
+    display: block
+    width: 25px
+    height: 10px
+    position: absolute
+    top: 0
+    left: 0
+
+  &.color-primario
+    background-color: #FFF6DB
+    &:before
+      background-color: #FDB74D
+  &.color-secundario
+    background-color: lighten($color-secundario, 20%)
+    &:before
+      background-color: $color-secundario
+  &.color-acento-contenido
+    background-color: lighten($color-acento-contenido, 30%)
+    &:before
+      background-color: $color-acento-contenido
+  &.color-acento-botones
+    background-color: lighten($color-acento-botones, 35%)
+    &:before
+      background-color: $color-acento-botones
+
+  
+.bgr-tarjeta-intro:before
+    background: #FFF59D
+    
+.bgr-tarjeta-intro
+    background: #FFFDEB
+
+.bloque-texto-g__texto2
+    position: relative
+    width: 60%
+    margin-right: 38%
+    background-color: rgba(255, 255, 255, 0.95)
+
+.bloque-texto-g__img2 
+    width: 40%
+    position: absolute
+    top: 0
+    left: 60%
+    bottom: 0
+    background-position: center
+    background-size: cover
+
+.bloque-texto-b.color-primario:before 
+    background-color: #FFFDE6
+    margin-top: 8%
+  
+.bg5
+  background-image: url('../assets/curso/temas/tema1/backgroundSlider.png')    
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center 
+  border-radius: 10px !important
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    background-color: $color-acento-botones
+
+.acordion__accion__btn--a 
+    background-color: $color-acento-botones
+
+.tarjeta--azul 
+    background-color: #FFFCDD
+
+.tamano-tema1
+  width: 80%
+
+.lista-ul--color li > i:first-of-type 
+    color: #FF6B00
+
+///////// Card hover --------------------------------------
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: rgba(255, 247, 230, 1) 
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+
+.text-bold2, .texto-bold2
+  font-weight: 700
+  color: #D84318
+
+.acordion__accion__btn--a i, .acordion__accion__btn--b i 
+    color: #fff
+
+
+
+    
+
+
+
+
+
+    
+
