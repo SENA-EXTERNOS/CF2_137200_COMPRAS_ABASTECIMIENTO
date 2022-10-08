@@ -12,8 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1.svg')})`}"
       )
       .bloque-texto-g__texto2.p-4
-        p.mb-0 En todos los eventos, siempre se debe establecer un protocolo para el control en la toma de decisiones, sobre todo frente a los imprevistos que se presentan en cada uno de ellos. En el siguiente video se desarrollan aquellos aspectos más importantes para tener en cuenta, para estar preparado ante cualquier eventualidad. 
-
+        p.mb-0 Para la gestión de los inventarios, las organizaciones deben tener claro que la oportunidad de un negocio está en tener los volúmenes óptimos de mercancía que se pueda mercadear y cuando se habla de los volúmenes óptimos, hay que pensar que existen mercancías que se pueden arruinar por sobre inventariar, acto que lastima las finanzas de la organización, ya que se invierten recursos que muchas veces quedan almacenados en estanterías, quizás perdiendo vida útil, depreciándose o llegando a su fecha de vencimiento. En otras ocasiones se presenta que las organizaciones no establecen stocks mínimos de mercancía que les permita tener una capacidad de reacción frente a su competencia en la materialización de una posible oportunidad de negocio o potenciar la venta que mueva la caja registradora y refresque el ciclo de inventario.
 
     #t_1_1
 
@@ -28,8 +27,7 @@
       .col-lg-8.mb-5.mb-lg-0
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
-            p Al dirigir eventos comerciales el organizador de eventos debe tener la capacidad de definir, gestionar y controlar aquellos imprevistos que se presenten. Primero, es importante comenzar por los rasgos grandes, pensando en general y esto se consigue al iniciar por el análisis de todas aquellas posibilidades que están fuera del alcance de cualquier persona y por ende fuera del organizador. Al omitir dedicar el tiempo a identificar y analizar estos grandes sucesos y su alcance, seguramente el evento estará expuesto a condiciones no manejables por el organizador y el evento no cumplirá con los objetivos planteados por el cliente y el organizador. En las siguientes características se entenderá cuáles son estas variables que deben considerarse:  
-
+            p Las herramientas para el control de inventarios precisamente permiten planear, aplicar y ejecutar de una manera sistémica, las existencias de: productos, materiales, materias primas o insumos, lo que ayuda a reducir costos, acelerar los procesos logísticos, evitar fraudes y realizar informes sobre el estado financiero del negocio. ¿Y por qué controlarlo todo es una pregunta muy válida? La respuesta es tan sencilla como la pregunta, esto se da por los recursos invertidos, estos pueden ser el mismo dinero al importar, adquirir o trasformar materias primas en productos terminados, además de almacenar y conservar para que no pierdan valor durante el tiempo de almacenamiento, no se pierdan, no se deterioren y estén disponibles como moneda de cambio en la sociedad económica, ya que el buen uso de los inventarios en las organizaciones puedan hacer parte de la diferenciación, entre una empresa dinámica que genere riqueza, a otra que lo haga por accidente o necesidad.
 
     separador
 
@@ -110,7 +108,7 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            p #[b Software de gestión de inventario]
+            p #[b #[i Software] de gestión de inventario]
 
             p Este se apalanca principalmente de la tecnología en cuanto a programas ofimáticos hablamos, la mayoría están interconectados con #[i softwares] contables dado que se articulan y hacen más fácil el análisis de costos y análisis financieros que son de innegable utilidad en todas las organizaciones, por otro lado, estos también son cada vez más flexibles y articulables con tecnologías como: códigos de barras, códigos QR, tecnología RFID.
 

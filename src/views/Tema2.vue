@@ -75,6 +75,9 @@
       .col-lg-2.col-xs-1
 
     .row.mt-5
+
+      p A continuación, se describen los niveles de #[i Stocks]:
+
       ul.lista-ul--color
         li 
           i.fas.fa-angle-right
@@ -86,35 +89,35 @@
           .col-8
             img(src='@/assets/curso/temas/tema2/img7.png' alt='AvatarTop')
         h2.text-center #[i Stock] de ciclo
-        p.text-center moment. Son usados para hacer frente a una demanda constante de un bien en una sociedad, para ello se crea un #[i stock] que se va agotando en el transcurso del tiempo.
+        p.text-center Son usados para hacer frente a una demanda constante de un bien en una sociedad, para ello se crea un #[i stock] que se va agotando en el transcurso del tiempo.
 
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img8.png' alt='AvatarTop')
         h2.text-center #[i Stock] de seguridad
-        p.text-center moment. Son los que nos permiten protegernos frente a una situación anómala que pueda generar escasez de una materia prima o insumo vital en un proceso productivo.
+        p.text-center Son los que nos permiten protegernos frente a una situación anómala que pueda generar escasez de una materia prima o insumo vital en un proceso productivo.
       
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img9.png' alt='AvatarTop')
         h2.text-center #[i Stock] por anticipación
-        p.text-center moment. Se trata de aprovisionamiento de unas existencias con anterioridad a una época reconocida por grandes ventas de ese bien que se almacena, o a una promoción favorable para la organización.
+        p.text-center Se trata de aprovisionamiento de unas existencias con anterioridad a una época reconocida por grandes ventas de ese bien que se almacena, o a una promoción favorable para la organización.
 
       .tarjeta.color-acento-botocontenidones.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema2/img19.png' alt='AvatarTop')
         h2.text-center #[i Stock] estacional
-        p.text-center moment. Se da para hacer frente a un aumento esperado de las ventas en una temporada.
+        p.text-center Se da para hacer frente a un aumento esperado de las ventas en una temporada.
 
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema2/img20.png' alt='AvatarTop')
         h2.text-center #[i Stock] de transito
-        p.text-center moment. Este #[i stock] se origina por la necesidad de auto proveerse de cierta materia prima o insumo como respuesta a la demora de los proveedores para despachar materias o materias primas necesarias para su producción o comercialización.
+        p.text-center Este #[i stock] se origina por la necesidad de auto proveerse de cierta materia prima o insumo como respuesta a la demora de los proveedores para despachar materias o materias primas necesarias para su producción o comercialización.
       
     .row.mt-5
       ul.lista-ul--color
@@ -130,7 +133,7 @@
               img(src="@/assets/curso/temas/tema2/img10.png", alt="alt")
           .crd_hover_txt--body
             h4.mb-3 #[i Stock] de materias primas
-            p.mb-0 Con este tipo de reportes, los gerentes podrán supervisar específicamente, la labor de cada vendedor y de esta manera, saber en qué les va bien y en cuáles actos hay que mejorar. Aquí también, va a encontrar si su fuerza de ventas está entendiendo sus estrategias y le sea más fácil incentivarlos a aumentar su productividad.
+            p.mb-0 Son las cantidades necesarias para la producción de un bien en un determinado tiempo: días, meses, años y es indispensable establecer para no generar cuellos de botella en procesos productivos y avances en logística.
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -204,7 +207,7 @@
 
     .row.justify-content-center.mb-5
 
-      p Existen dos casos de rotura de #[i stock]
+      p #[b Existen dos casos de rotura de #[i stock]]
 
       .col-lg-8
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -230,11 +233,11 @@
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-lg-8
-        p El concepto claro de la rotura del #[i stock] en procesos de almacenamiento y producción, corresponde a momentos no deseados dentro de una actividad productiva y a aquellos momentos en que una organización no tiene stock para poder responder a la demanda de sus clientes en el mercado que se ve traducido en costos innecesarios de no venta total o parcial de dicho bien. Escenario indeseado ya que se abre la posibilidad a que la competencia tome esta desventaja como oportunidad y fidelice el cliente que ya había sido de alguna manera capitalizado por la empresa, esta situación puede generar gastos no planeados al tratar de reponer de forma urgente un producto en estas condiciones.
+        p En la gestión de inventarios, no todos los esfuerzos van concentrados en las salidas de productos terminados. Las entradas por concepto de reaprovisionamiento son fundamentales para el funcionamiento óptimo de toda gestión logística y de inventarios, para ello también existen unas metodologías que deben ser tenidas en cuenta para controlar el proceso de inventarios en niveles deseados para la operatividad del proceso productivo.
 
         .cajonIntro.bgr-tarjeta-intro.p-4
-            p Llevando el concepto al análisis de la situación, esta se puede dar por motivos externos y fortuitos que se pueden salir del análisis de abastecimiento, estas pueden ser fallas en el transporte o condiciones climatológicas u otras más extremas, como conflictos bélicos y cuellos de botellas en procesos de importación de materias primas o insumos, lo que no se puede tolerar es que la falla sea interna por falta de gestión en almacenes o en procesos logísticos internos que se suponen deben funcionar tal cual reloj suizo.
-
+            p Para ser más eficiente el proceso, se generan unas reglas para la gestión de los inventarios que permiten generar distintas alarmas que nos indique cuando el inventario se debería reaprovisionar (nivel de disparo: consiste en identificar los niveles mínimos en los cuales se deben reaprovisionar una mercancía, materia prima o insumo) y crear nuevas órdenes de compra que den respuesta a los niveles mínimos y máximos de inventarios que se requieren para evitar rotura de stock y quizá una desafortunada parada de producción o incumplimientos de entrega con los clientes.
+            
       .col-lg-4
         figure
           img(src='@/assets/curso/temas/tema2/img16.png', alt='Texto que describa la imagen')
