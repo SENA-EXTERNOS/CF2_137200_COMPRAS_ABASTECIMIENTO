@@ -31,21 +31,21 @@
       
     
     .row.justify-content-around.align-items-center.mt-5.mb-5
-      .col-lg-3
-      .col-lg-6
+      .col-lg-3.col-xs-1
+      .col-lg-6.col-xs-10
         figure
           img(src='@/assets/curso/temas/tema3/img3.png', alt='Texto que describa la imagen') 
-      .col-lg-3
+      .col-lg-3.col-xs-1
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
-      .col-2
-      .col-8
+      .col-lg-2.col-xs-1
+      .col-lg-8.col-xs-10
         .cajonIntro.bgr-tarjeta-intro.p-4
           .row.justify-content-around.align-items-center.mt-5.mb-5
-            .col-3
+            .col-lg-3.col-xs-4
               figure
                 img(src='@/assets/curso/temas/tema3/img4.png', alt='Texto que describa la imagen') 
-            .col-9
+            .col-lg-9.col-xs-4
               p #[b Los indicadores más utilizados en la industria son:]
               ul.lista-ul--color
                 li 
@@ -60,7 +60,7 @@
                 li 
                   i.fas.fa-angle-right
                   | Índice de regularización
-      .col-2 
+      .col-lg-2.col-xs-1
 
     .tarjeta.color-primario.p-3.mb-5
       .row.justify-content-around.align-items-center
@@ -98,11 +98,11 @@
           img(src='@/assets/curso/temas/tema3/img5.png', alt='Texto que describa la imagen') 
 
     .row
-      .col-2
-      .col-8
+      .col-lg-2.col-xs-1
+      .col-lg-8.col-xs-10
         figure
           img(src='@/assets/curso/temas/tema3/img6.png', alt='Texto que describa la imagen') 
-      .col-2
+      .col-lg-2.col-xs-1
       
 
     separador
@@ -128,10 +128,10 @@
             p #[span.text-bold2 ●] Los KPI son similares a los tableros de mando balance score card, se usan para el análisis de los indicadores que son susceptibles de medir en la organización, como ya han sido mencionados son los indicadores más relevantes porque hay muchos en la gestión de inventarios.
       
     .row
-      .col-2
+      .col-lg-2.col-sm-4
         figure
           img(src='@/assets/curso/temas/tema3/img8.png', alt='Texto que describa la imagen') 
-      .col-10
+      .col-lg-10.col-sm-8
         p #[b Aprendiz,] ha culminado el estudio de las temáticas correspondientes al componente Seguimiento de inventario y ciclos de abastecimiento, lo invitamos a que visualice la síntesis para que recuerde cada uno temas vistos y a realizar la actividad didáctica para que retroalimente todo lo aprendido.  
     
 </template>

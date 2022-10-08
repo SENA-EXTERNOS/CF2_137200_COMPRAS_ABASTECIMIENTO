@@ -18,11 +18,11 @@
           img(src='@/assets/curso/temas/tema2/img1.png', alt='Texto que describa la imagen') 
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
-      .col-2
-      .col-lg-8
+      .col-lg-2.col-xs-1
+      .col-lg-8.col-xs-10
         figure
-          img(src='@/assets/curso/temas/tema2/img2.png', alt='Texto que describa la imagen').tamano-tema1
-      .col-2
+          img(src='@/assets/curso/temas/tema2/img2.png', alt='Texto que describa la imagen')
+      .col-lg-2.col-xs-1
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-lg-9
@@ -63,16 +63,16 @@
         p Para hablar de niveles de #[i stock] primero hay que entender de una manera sencilla el concepto de #[i stock]: ¿stock como concepto significa provisión, pero para que proveer? El objetivo de tener o contar con #[i stock] es: disponer de la manera más económica, oportuna, necesaria y precisa de un bien para poder transformarlo, comercializarlo o distribuirlo. Esto generará una ventaja competitiva en el concepto de just in time (justo a tiempo).
 
         figure
-          img(src='@/assets/curso/temas/tema2/img5.png', alt='Texto que describa la imagen').tamano-tema1
+          img(src='@/assets/curso/temas/tema2/img5.png', alt='Texto que describa la imagen')
     
     .row
       p Por lo general se utilizan tres tipos de #[b #[i stocks:]]
 
-      .col-2
-      .col-8
+      .col-lg-2.col-xs-1
+      .col-lg-8.col-xs-10
         figure
           img(src='@/assets/curso/temas/tema2/img6.png', alt='Texto que describa la imagen') 
-      .col-2
+      .col-lg-2.col-xs-1
 
     .row.mt-5
       ul.lista-ul--color
