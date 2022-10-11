@@ -54,7 +54,7 @@ export default {
           },
           {
             icono: 'far fa-file-alt',
-            numero: '1.1',
+            numero: '1.3',
             titulo: 'Características',
             hash: 't_1_3',
           },
@@ -82,7 +82,7 @@ export default {
           },
           {
             icono: 'far fa-file-alt',
-            numero: '2.1',
+            numero: '2.3',
             titulo: 'Cantidad económica a pedir',
             hash: 't_2_3',
           },
@@ -109,7 +109,7 @@ export default {
           },
           {
             icono: 'far fa-file-alt',
-            numero: '3.1',
+            numero: '3.3',
             titulo: 'Cantidad económica a pedir',
             hash: 't_3_3',
           },
