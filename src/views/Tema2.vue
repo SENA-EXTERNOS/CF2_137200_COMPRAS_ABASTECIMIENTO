@@ -60,7 +60,7 @@
           img(src='@/assets/curso/temas/tema2/img4.png', alt='Texto que describa la imagen') 
 
       .col-lg-8
-        p Para hablar de niveles de #[i stock] primero hay que entender de una manera sencilla el concepto de #[i stock]: ¿stock como concepto significa provisión, pero para que proveer? El objetivo de tener o contar con #[i stock] es: disponer de la manera más económica, oportuna, necesaria y precisa de un bien para poder transformarlo, comercializarlo o distribuirlo. Esto generará una ventaja competitiva en el concepto de just in time (justo a tiempo).
+        p Para hablar de niveles de #[i stock] primero hay que entender de una manera sencilla el concepto de #[i stock]: ¿#[i stock] como concepto significa provisión, pero para que proveer? El objetivo de tener o contar con #[i stock] es: disponer de la manera más económica, oportuna, necesaria y precisa de un bien para poder transformarlo, comercializarlo o distribuirlo. Esto generará una ventaja competitiva en el concepto de #[i just in time] (justo a tiempo).
 
         figure
           img(src='@/assets/curso/temas/tema2/img5.png', alt='Texto que describa la imagen')
@@ -105,7 +105,7 @@
         h2.text-center #[i Stock] por anticipación
         p.text-center Se trata de aprovisionamiento de unas existencias con anterioridad a una época reconocida por grandes ventas de ese bien que se almacena, o a una promoción favorable para la organización.
 
-      .tarjeta.color-acento-botocontenidones.p-4
+      .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img19.png' alt='AvatarTop')
@@ -162,23 +162,23 @@
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-lg-9
         TabsA.color-primario.mb-5        
-          .tarjeta.clr-paleYellow.p-4(titulo="Stock Optimo")
+          .tarjeta.clr-paleYellow.p-4(titulo="Stock Optimo").tarjeta-2
             h4 #[i Stock] Optimo
             p Este #[i Stock] obedece al estudio de las cantidades optimas de producto que debe ser almacenado sin que su almacenaje se convierta en una carga financiera para la organización partiendo de la base de los histogramas de ventas de producto en el tiempo.
 
-          .tarjeta.clr-paleYellow.p-4(titulo="Stock cero")
+          .tarjeta.clr-paleYellow.p-4(titulo="Stock cero").tarjeta-2
             h4 #[i Stock] cero
             p Este concepto de #[i Stock] corresponde precisamente a no tener #[i Stock] disponible obedeciendo a características de la organización u estrategia de producción en la cual solo se trabaja sobre pedidos específicos u ordenes de trabajo.
 
-          .tarjeta.clr-paleYellow.p-4(titulo="Stock físico")
+          .tarjeta.clr-paleYellow.p-4(titulo="Stock físico").tarjeta-2
             h4 #[i Stock] físico
             p Es la cantidad disponible materialmente en un momento determinada en un almacén, el cual siempre debe ser positivo numéricamente hablando.
 
-          .tarjeta.clr-paleYellow.p-4(titulo="Stock neto")
+          .tarjeta.clr-paleYellow.p-4(titulo="Stock neto").tarjeta-2
             h4 #[i Stock] neto
             p Este corresponde a la diferencia entre el #[i Stock] físico y la demanda insatisfecha de un producto, este se puede dar en términos numéricos negativos lo cual nos confirma demandas insatisfechas.
 
-          .tarjeta.clr-paleYellow.p-4(titulo="Stock disponible")
+          .tarjeta.clr-paleYellow.p-4(titulo="Stock disponible").tarjeta-2
             h4 #[i Stock] disponible
             p Corresponde al #[i Stock] físico, más los pedidos hechos a proveedores de ese producto menos la demanda insatisfecha de dicho producto.
 
@@ -213,11 +213,11 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Diferida")
             .col-lg-12.col-md-6.mb-4.mb-md-0
-              p Se da cuando se realizan pedidos y no tenemos posibilidad de cumplir por tener stock insuficiente y no se puede entregar el pedido completo, aquí se generan costos difícilmente medibles y cuantificables generando consecuencias negativas, como entregas a destiempo, la insatisfacción de los clientes quienes confiaron en la organización, además de generar perdida en la imagen de la empresa.
+              p Se da cuando se realizan pedidos y no tenemos posibilidad de cumplir por tener #[i Stock] insuficiente y no se puede entregar el pedido completo, aquí se generan costos difícilmente medibles y cuantificables generando consecuencias negativas, como entregas a destiempo, la insatisfacción de los clientes quienes confiaron en la organización, además de generar perdida en la imagen de la empresa.
 
           .row(titulo="Perdida")
             .col-lg-12.col-md-6.mb-4.mb-md-0
-              p Ocurre cuando definitivamente no se puede cumplir con un pedido generado por un cliente por falta de stock u stock negativo, ahí precisamente se genera el coste de rotura que se da por la mencionada incapacidad de cumplir con un pedido.
+              p Ocurre cuando definitivamente no se puede cumplir con un pedido generado por un cliente por falta de #[i Stock] u #[i Stock] negativo, ahí precisamente se genera el coste de rotura que se da por la mencionada incapacidad de cumplir con un pedido.
 
       .col-8.col-lg-4
         figure
@@ -236,7 +236,7 @@
         p En la gestión de inventarios, no todos los esfuerzos van concentrados en las salidas de productos terminados. Las entradas por concepto de reaprovisionamiento son fundamentales para el funcionamiento óptimo de toda gestión logística y de inventarios, para ello también existen unas metodologías que deben ser tenidas en cuenta para controlar el proceso de inventarios en niveles deseados para la operatividad del proceso productivo.
 
         .cajonIntro.bgr-tarjeta-intro.p-4
-            p Para ser más eficiente el proceso, se generan unas reglas para la gestión de los inventarios que permiten generar distintas alarmas que nos indique cuando el inventario se debería reaprovisionar (nivel de disparo: consiste en identificar los niveles mínimos en los cuales se deben reaprovisionar una mercancía, materia prima o insumo) y crear nuevas órdenes de compra que den respuesta a los niveles mínimos y máximos de inventarios que se requieren para evitar rotura de stock y quizá una desafortunada parada de producción o incumplimientos de entrega con los clientes.
+            p Para ser más eficiente el proceso, se generan unas reglas para la gestión de los inventarios que permiten generar distintas alarmas que nos indique cuando el inventario se debería reaprovisionar (nivel de disparo: consiste en identificar los niveles mínimos en los cuales se deben reaprovisionar una mercancía, materia prima o insumo) y crear nuevas órdenes de compra que den respuesta a los niveles mínimos y máximos de inventarios que se requieren para evitar rotura de #[i Stock] y quizá una desafortunada parada de producción o incumplimientos de entrega con los clientes.
             
       .col-lg-4
         figure

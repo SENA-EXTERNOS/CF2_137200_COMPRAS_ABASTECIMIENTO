@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img1.png')})`}"
       )
       .bloque-texto-g__texto2.p-4
-        p.mb-0 Si se cuenta con herramientas que facilitan el control y seguimiento de los inventarios en los ciclos de abastecimiento en una empresa, se pueden reducir costos en la operación, y todo al final se convierte en información, que se traduce en datos claves que deben ser valorados cuantitativamente, por lo tanto, los indicadores de gestión de inventarios, evalúan la disponibilidad del stock real, teniendo a la mano datos como el promedio de materias primas que se almacena en bodega, el nivel de inventario más óptimo que se requiere para el cumplimiento de metas de venta, saber el promedio de pérdidas de stock que se tiene cada periodo de tiempo, entre tantas necesidades de información que cada tipo de empresa requiera, se podrán medir a través de indicadores de gestión de inventarios.
+        p.mb-0 Si se cuenta con herramientas que facilitan el control y seguimiento de los inventarios en los ciclos de abastecimiento en una empresa, se pueden reducir costos en la operación, y todo al final se convierte en información, que se traduce en datos claves que deben ser valorados cuantitativamente, por lo tanto, los indicadores de gestión de inventarios, evalúan la disponibilidad del #[i Stock] real, teniendo a la mano datos como el promedio de materias primas que se almacena en bodega, el nivel de inventario más óptimo que se requiere para el cumplimiento de metas de venta, saber el promedio de pérdidas de #[i Stock] que se tiene cada periodo de tiempo, entre tantas necesidades de información que cada tipo de empresa requiera, se podrán medir a través de indicadores de gestión de inventarios.
 
         
 
@@ -49,16 +49,16 @@
               p #[b Los indicadores más utilizados en la industria son:]
               ul.lista-ul--color
                 li 
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | Índice de rotación
                 li 
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | Índice de cobertura
                 li 
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | Índice de exactitud del inventario
                 li 
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | Índice de regularización
       .col-lg-2.col-xs-1
 
@@ -125,7 +125,7 @@
         p En un solo tablero se podrá visualizar rendimiento operativo para evaluar mejor lo que hemos avanzado y lo que nos queda por hacer para alcanzar nuestros objetivos como herramienta de informes de gestión de indicadores de gestión de inventarios.
 
         .cajonIntro.bgr-tarjeta-intro.p-4
-            p #[span.text-bold2 ●] Los KPI son similares a los tableros de mando balance score card, se usan para el análisis de los indicadores que son susceptibles de medir en la organización, como ya han sido mencionados son los indicadores más relevantes porque hay muchos en la gestión de inventarios.
+            p #[span.text-bold2 ●] Los KPI son similares a los tableros de mando balance #[i score card], se usan para el análisis de los indicadores que son susceptibles de medir en la organización, como ya han sido mencionados son los indicadores más relevantes porque hay muchos en la gestión de inventarios.
       
     .row
       .col-lg-2.col-sm-4

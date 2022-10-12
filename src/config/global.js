@@ -180,7 +180,7 @@ export default {
     {
       termino: 'EOQ (cantidad económica del pedido)',
       significado:
-        'Por las siglas de su nombre en inglés (Economic Order Quantity) es un modelo matemático que sirve para calcular el tamaño óptimo de cada pedido de materia prima. Esto, buscando la mayor eficiencia. (Westreicher, Economipedia, 2020).',
+        'Por las siglas de su nombre en inglés (<em>Economic Order Quantity</em>) es un modelo matemático que sirve para calcular el tamaño óptimo de cada pedido de materia prima. Esto, buscando la mayor eficiencia. (Westreicher, Economipedia, 2020).',
     },
     {
       termino: 'Gestión de inventarios',

@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1.svg')})`}"
       )
       .bloque-texto-g__texto2.p-4
-        p.mb-0 Para la gestión de los inventarios, las organizaciones deben tener claro que la oportunidad de un negocio está en tener los volúmenes óptimos de mercancía que se pueda mercadear y cuando se habla de los volúmenes óptimos, hay que pensar que existen mercancías que se pueden arruinar por sobre inventariar, acto que lastima las finanzas de la organización, ya que se invierten recursos que muchas veces quedan almacenados en estanterías, quizás perdiendo vida útil, depreciándose o llegando a su fecha de vencimiento. En otras ocasiones se presenta que las organizaciones no establecen stocks mínimos de mercancía que les permita tener una capacidad de reacción frente a su competencia en la materialización de una posible oportunidad de negocio o potenciar la venta que mueva la caja registradora y refresque el ciclo de inventario.
+        p.mb-0 Para la gestión de los inventarios, las organizaciones deben tener claro que la oportunidad de un negocio está en tener los volúmenes óptimos de mercancía que se pueda mercadear y cuando se habla de los volúmenes óptimos, hay que pensar que existen mercancías que se pueden arruinar por sobre inventariar, acto que lastima las finanzas de la organización, ya que se invierten recursos que muchas veces quedan almacenados en estanterías, quizás perdiendo vida útil, depreciándose o llegando a su fecha de vencimiento. En otras ocasiones se presenta que las organizaciones no establecen #[i stocks] mínimos de mercancía que les permita tener una capacidad de reacción frente a su competencia en la materialización de una posible oportunidad de negocio o potenciar la venta que mueva la caja registradora y refresque el ciclo de inventario.
 
     #t_1_1
 
@@ -41,7 +41,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img3.svg', alt='Texto que describa la imagen')  
       .col-lg-10
-        p Dentro de los muchos usos de las herramientas podemos mencionar que todas son usables sin hacer distinción del tipo de organización, solo depende de su músculo financiero, ya que existen herramientas manuales y automáticas, dentro de estas se pueden mencionar rápidamente: códigos de barra, códigos QR y tecnología RFID, recuento cíclico (uso de Kardex, Análisis ABC, productos terminados, en proceso y materias primas o insumos / Alta, media y baja rotación), software de gestión de inventario, lotes de producción y su trazabilidad.
+        p Dentro de los muchos usos de las herramientas podemos mencionar que todas son usables sin hacer distinción del tipo de organización, solo depende de su músculo financiero, ya que existen herramientas manuales y automáticas, dentro de estas se pueden mencionar rápidamente: códigos de barra, códigos QR y tecnología RFID, recuento cíclico (uso de Kardex, Análisis ABC, productos terminados, en proceso y materias primas o insumos / Alta, media y baja rotación), #[i software] de gestión de inventario, lotes de producción y su trazabilidad.
 
     .tarjeta.tarjeta--azul.p-4.mt-5.bg5
       SlyderA(tipo="b").bg5
@@ -49,7 +49,7 @@
           .col-md-6.mb-4.mb-md-0
             p #[b Códigos de barra]
 
-            p Esta herramienta de tipo tecnológico, requiere de un soporte de tecnologías duras, #[i hardware] y tecnologías blandas, #[i software] compuestos por diversos programas ofimáticos que interactúan con el #[i hardware], los cuales estás compuestos por: pistolas o lectores de códigos que se adhieren a los diferentes tipos de empaques (primarios, secundarios y terciarios) permitiendo realizar descuentos de inventarios que se encuentra instalados en los computadores que contienen el #[i software] de inventario y el software del lector de códigos de barra, esta tecnología aunque aún se encuentra vigente, proviene de los años 80 y ha demostrado no ser tan fácil de sustituir por la facilidad y la versatilidad en todo tipo de inventarios de cualquier sector económico.
+            p Esta herramienta de tipo tecnológico, requiere de un soporte de tecnologías duras, #[i hardware] y tecnologías blandas, #[i software] compuestos por diversos programas ofimáticos que interactúan con el #[i hardware], los cuales están compuestos por: pistolas o lectores de códigos que se adhieren a los diferentes tipos de empaques (primarios, secundarios y terciarios) permitiendo realizar descuentos de inventarios que se encuentra instalados en los computadores que contienen el #[i software] de inventario y el #[i software] del lector de códigos de barra, esta tecnología aunque aún se encuentra vigente, proviene de los años 80 y ha demostrado no ser tan fácil de sustituir por la facilidad y la versatilidad en todo tipo de inventarios de cualquier sector económico.
 
           .col-md-6
             figure
