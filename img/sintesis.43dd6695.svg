@@ -1,0 +1,214 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1013" height="923" viewBox="0 0 1013 923">
+  <g id="Grupo_131452" data-name="Grupo 131452" transform="translate(-311.333 -495)">
+    <rect id="Rectángulo_41440" data-name="Rectángulo 41440" width="495" height="51" transform="translate(553.333 495)" fill="#1b3f5e"/>
+    <g id="Rectángulo_41449" data-name="Rectángulo 41449" transform="translate(701.333 1128)" fill="#f0f8ff" stroke="#d84318" stroke-width="2">
+      <rect width="199" height="51" stroke="none"/>
+      <rect x="1" y="1" width="197" height="49" fill="none"/>
+    </g>
+    <text id="Herramientas_Operativas_del_control_de_inventarios" data-name="Herramientas Operativas del control de inventarios" transform="translate(800.333 528)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-230.005" y="0">Herramientas Operativas del control de inventarios</tspan></text>
+    <text id="Niveles_de_stock" data-name="Niveles de stock" transform="translate(800.333 1161)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-73.936" y="0">Niveles de </tspan><tspan y="0" font-family="Roboto-BlackItalic, Roboto" font-style="italic">stock</tspan></text>
+    <g id="Rectángulo_41207" data-name="Rectángulo 41207" transform="translate(374.333 630)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2">
+      <rect width="202" height="126" stroke="none"/>
+      <rect x="1" y="1" width="200" height="124" fill="none"/>
+    </g>
+    <g id="Rectángulo_41443" data-name="Rectángulo 41443" transform="translate(987.333 630)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2">
+      <rect width="225" height="159" stroke="none"/>
+      <rect x="1" y="1" width="223" height="157" fill="none"/>
+    </g>
+    <g id="Rectángulo_41446" data-name="Rectángulo 41446" transform="translate(503.333 892)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2">
+      <rect width="249" height="208" stroke="none"/>
+      <rect x="1" y="1" width="247" height="206" fill="none"/>
+    </g>
+    <g id="Rectángulo_41447" data-name="Rectángulo 41447" transform="translate(1039.333 916)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2">
+      <rect width="285" height="160" stroke="none"/>
+      <rect x="1" y="1" width="283" height="158" fill="none"/>
+    </g>
+    <text id="Planear_compras" data-name="Planear compras" transform="translate(408.553 646)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Planear compras</tspan></text>
+    <text id="Control_inmediato" data-name="Control inmediato" transform="translate(1021.553 646)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Control inmediato</tspan></text>
+    <text id="Generación_de_la_necesidad" data-name="Generación de la necesidad" transform="translate(537.553 908)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Generación de la necesidad</tspan></text>
+    <text id="Controlar_existencias" data-name="Controlar existencias" transform="translate(408.553 673)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Controlar existencias</tspan></text>
+    <text id="Planeación_estratégica_de_compras" data-name="Planeación estratégica de compras" transform="translate(1021.553 673)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Planeación estratégica </tspan><tspan x="0" y="41">de compras</tspan></text>
+    <text id="Evaluación_y_selección_de_proveedores" data-name="Evaluación y selección de proveedores" transform="translate(537.553 935)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Evaluación y selección de </tspan><tspan x="0" y="41">proveedores</tspan></text>
+    <text id="Índice_de_exactitud_de_inventario" data-name="Índice de exactitud de inventario" transform="translate(1073.553 932)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Índice de exactitud de inventario</tspan></text>
+    <text id="Estandarización_de_inventarios" data-name="Estandarización de inventarios" transform="translate(1021.553 726)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Estandarización de </tspan><tspan x="0" y="41">inventarios</tspan></text>
+    <text id="Ingresos_de_órdenes_de_compra" data-name="Ingresos de órdenes de compra" transform="translate(537.553 988)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Ingresos de órdenes de </tspan><tspan x="0" y="41">compra</tspan></text>
+    <text id="Índice_de_regulación" data-name="Índice de regulación" transform="translate(1073.553 961)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Índice de regulación</tspan></text>
+    <text id="Índice_de_perdidas" data-name="Índice de perdidas" transform="translate(1073.553 990)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Índice de perdidas</tspan></text>
+    <text id="Índice_de_rotación" data-name="Índice de rotación" transform="translate(1073.553 1019)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Índice de rotación</tspan></text>
+    <text id="Índice_de_cobertura" data-name="Índice de cobertura" transform="translate(1073.553 1044.991)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Índice de cobertura</tspan></text>
+    <text id="Recepción_de_pedido_y_logística_del_cliente" data-name="Recepción de pedido y logística del cliente" transform="translate(537.553 1041)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Recepción de pedido y </tspan><tspan x="0" y="41">logística del cliente</tspan></text>
+    <text id="Ejecutar_el_control_de_inventarios" data-name="Ejecutar el control
+de inventarios" transform="translate(408.553 698.574)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Ejecutar el control</tspan><tspan x="0" y="39">de inventarios</tspan></text>
+    <g id="Grupo_423" data-name="Grupo 423" transform="translate(390.333 648.583)">
+      <path id="Trazado_635" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-2" data-name="Grupo 423" transform="translate(1003.333 648.583)">
+      <path id="Trazado_635-2" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-3" data-name="Grupo 423" transform="translate(519.333 910.583)">
+      <path id="Trazado_635-3" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_131438" data-name="Grupo 131438" transform="translate(-25 -20)">
+      <g id="Rectángulo_41442" data-name="Rectángulo 41442" transform="translate(699.333 650)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2">
+        <rect width="251" height="231" stroke="none"/>
+        <rect x="1" y="1" width="249" height="229" fill="none"/>
+      </g>
+      <text id="Código_de_Barras" data-name="Código de Barras" transform="translate(733.553 666)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Código de Barras</tspan></text>
+      <text id="Código_QR" data-name="Código QR" transform="translate(733.553 695)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Código QR</tspan></text>
+      <text id="Tecnología_RFID" data-name="Tecnología RFID" transform="translate(733.553 724)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Tecnología RFID</tspan></text>
+      <text id="Recuento_cíclico" data-name="Recuento cíclico" transform="translate(733.553 753)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Recuento cíclico</tspan></text>
+      <text id="Análisis_costos_ABC" data-name="Análisis costos ABC" transform="translate(733.553 782)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Análisis costos ABC</tspan></text>
+      <text id="Sw_Gestión_de_inventarios" data-name="Sw – Gestión de inventarios" transform="translate(733.553 811.574)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Sw – Gestión de inventarios</tspan></text>
+      <text id="Lotes_de_producción" data-name="Lotes de producción" transform="translate(733.553 840.574)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Lotes de producción</tspan></text>
+      <g id="Grupo_423-4" data-name="Grupo 423" transform="translate(715.333 668.583)">
+        <path id="Trazado_635-4" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+      </g>
+      <g id="Grupo_423-5" data-name="Grupo 423" transform="translate(715.333 697.583)">
+        <path id="Trazado_635-5" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+      </g>
+      <g id="Grupo_423-6" data-name="Grupo 423" transform="translate(715.333 726.583)">
+        <path id="Trazado_635-6" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+      </g>
+      <g id="Grupo_423-7" data-name="Grupo 423" transform="translate(715.333 755.583)">
+        <path id="Trazado_635-7" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+      </g>
+      <g id="Grupo_423-8" data-name="Grupo 423" transform="translate(715.333 784.583)">
+        <path id="Trazado_635-8" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+      </g>
+      <g id="Grupo_423-9" data-name="Grupo 423" transform="translate(715.333 814.157)">
+        <path id="Trazado_635-9" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+      </g>
+      <g id="Grupo_423-10" data-name="Grupo 423" transform="translate(715.333 843.157)">
+        <path id="Trazado_635-10" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+      </g>
+    </g>
+    <g id="Grupo_423-11" data-name="Grupo 423" transform="translate(390.333 675)">
+      <path id="Trazado_635-11" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-12" data-name="Grupo 423" transform="translate(1003.333 675)">
+      <path id="Trazado_635-12" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-13" data-name="Grupo 423" transform="translate(519.333 937)">
+      <path id="Trazado_635-13" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-14" data-name="Grupo 423" transform="translate(1055.333 934)">
+      <path id="Trazado_635-14" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-15" data-name="Grupo 423" transform="translate(1003.333 728)">
+      <path id="Trazado_635-15" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-16" data-name="Grupo 423" transform="translate(519.333 990)">
+      <path id="Trazado_635-16" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-17" data-name="Grupo 423" transform="translate(1055.333 963)">
+      <path id="Trazado_635-17" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-18" data-name="Grupo 423" transform="translate(1055.333 992)">
+      <path id="Trazado_635-18" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-19" data-name="Grupo 423" transform="translate(1055.333 1021)">
+      <path id="Trazado_635-19" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-20" data-name="Grupo 423" transform="translate(1055.333 1046.992)">
+      <path id="Trazado_635-20" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-21" data-name="Grupo 423" transform="translate(519.333 1043)">
+      <path id="Trazado_635-21" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-22" data-name="Grupo 423" transform="translate(390.333 701.157)">
+      <path id="Trazado_635-22" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Rectángulo_41216" data-name="Rectángulo 41216" transform="translate(422.333 566)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2">
+      <rect width="105" height="41" stroke="none"/>
+      <rect x="1" y="1" width="103" height="39" fill="none"/>
+    </g>
+    <g id="Rectángulo_41445" data-name="Rectángulo 41445" transform="translate(311.333 960)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2">
+      <rect width="161" height="73" stroke="none"/>
+      <rect x="1" y="1" width="159" height="71" fill="none"/>
+    </g>
+    <g id="Rectángulo_41448" data-name="Rectángulo 41448" transform="translate(847.333 960)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2">
+      <rect width="161" height="73" stroke="none"/>
+      <rect x="1" y="1" width="159" height="71" fill="none"/>
+    </g>
+    <g id="Rectángulo_41444" data-name="Rectángulo 41444" transform="translate(1021.333 566)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2">
+      <rect width="161" height="41" stroke="none"/>
+      <rect x="1" y="1" width="159" height="39" fill="none"/>
+    </g>
+    <g id="Rectángulo_41441" data-name="Rectángulo 41441" transform="translate(681.333 566)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2">
+      <rect width="237" height="41" stroke="none"/>
+      <rect x="1" y="1" width="235" height="39" fill="none"/>
+    </g>
+    <text id="Usos" transform="translate(475.333 594)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-22.505" y="0">Usos</tspan></text>
+    <text id="Ciclo_de_abastecimiento" data-name="Ciclo de
+abastecimiento" transform="translate(392.333 990)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-36.431" y="0">Ciclo de</tspan><tspan x="-69.536" y="27">abastecimiento</tspan></text>
+    <text id="Indicadores_de_Inventarios" data-name="Indicadores
+de Inventarios" transform="translate(928.333 990)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-53.13" y="0">Indicadores</tspan><tspan x="-64.482" y="27">de Inventarios</tspan></text>
+    <text id="Características" transform="translate(1102.333 594)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-68.462" y="0">Características</tspan></text>
+    <text id="Tipos_de_herramientas" data-name="Tipos de herramientas" transform="translate(800.333 594)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-101.606" y="0">Tipos de herramientas</tspan></text>
+    <path id="Trazado_194405" data-name="Trazado 194405" d="M-12286.667-9483v23.333" transform="translate(12759.333 10090)" fill="none" stroke="#1b3f5e" stroke-width="2"/>
+    <path id="Trazado_194408" data-name="Trazado 194408" d="M-12286.667-9483v31" transform="translate(9955.333 -11290.166) rotate(-90)" fill="none" stroke="#1b3f5e" stroke-width="2"/>
+    <g id="Rectángulo_41450" data-name="Rectángulo 41450" transform="translate(407.333 1258)" fill="#f0f8ff" stroke="#d84318" stroke-width="2">
+      <rect width="231" height="160" stroke="none"/>
+      <rect x="1" y="1" width="229" height="158" fill="none"/>
+    </g>
+    <text id="Stock_de_ciclo" data-name="Stock de ciclo" transform="translate(441.553 1274)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="17">Stock </tspan><tspan y="17" font-family="Roboto-Regular, Roboto" font-style="normal">de ciclo</tspan></text>
+    <text id="Stock_de_seguridad" data-name="Stock de seguridad" transform="translate(441.553 1303)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="17">Stock </tspan><tspan y="17" font-family="Roboto-Regular, Roboto" font-style="normal">de seguridad</tspan></text>
+    <text id="Stock_por_anticipación" data-name="Stock por anticipación" transform="translate(441.553 1332)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="17">Stock</tspan><tspan y="17" xml:space="preserve" font-family="Roboto-Regular, Roboto" font-style="normal"> por anticipación</tspan></text>
+    <text id="Stock_Estacional" data-name="Stock Estacional" transform="translate(441.553 1361)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="17">Stock</tspan><tspan y="17" xml:space="preserve" font-family="Roboto-Regular, Roboto" font-style="normal"> Estacional</tspan></text>
+    <text id="Stock_de_transito" data-name="Stock de transito" transform="translate(441.553 1386.991)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="17">Stock </tspan><tspan y="17" font-family="Roboto-Regular, Roboto" font-style="normal">de transito</tspan></text>
+    <g id="Grupo_423-23" data-name="Grupo 423" transform="translate(423.333 1276)">
+      <path id="Trazado_635-23" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-24" data-name="Grupo 423" transform="translate(423.333 1305)">
+      <path id="Trazado_635-24" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-25" data-name="Grupo 423" transform="translate(423.333 1334)">
+      <path id="Trazado_635-25" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-26" data-name="Grupo 423" transform="translate(423.333 1363)">
+      <path id="Trazado_635-26" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-27" data-name="Grupo 423" transform="translate(423.333 1388.992)">
+      <path id="Trazado_635-27" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Rectángulo_41453" data-name="Rectángulo 41453" transform="translate(940.333 1258)" fill="#f0f8ff" stroke="#d84318" stroke-width="2">
+      <rect width="231" height="160" stroke="none"/>
+      <rect x="1" y="1" width="229" height="158" fill="none"/>
+    </g>
+    <text id="Stock_optimo" data-name="Stock optimo" transform="translate(974.553 1274)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="17">Stock </tspan><tspan y="17" font-family="Roboto-Regular, Roboto" font-style="normal">optimo</tspan></text>
+    <text id="Stock_cero" data-name="Stock cero" transform="translate(974.553 1303)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="17">Stock </tspan><tspan y="17" font-family="Roboto-Regular, Roboto" font-style="normal">cero</tspan></text>
+    <text id="Stock_físico" data-name="Stock físico" transform="translate(974.553 1332)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="17">Stock</tspan><tspan y="17" xml:space="preserve" font-family="Roboto-Regular, Roboto" font-style="normal"> físico</tspan></text>
+    <text id="Stock_neto" data-name="Stock neto" transform="translate(974.553 1361)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="17">Stock</tspan><tspan y="17" xml:space="preserve" font-family="Roboto-Regular, Roboto" font-style="normal"> neto</tspan></text>
+    <text id="Stock_disponible" data-name="Stock disponible" transform="translate(974.553 1386.991)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="17">Stock </tspan><tspan y="17" font-family="Roboto-Regular, Roboto" font-style="normal">disponible</tspan></text>
+    <g id="Grupo_423-28" data-name="Grupo 423" transform="translate(956.333 1276)">
+      <path id="Trazado_635-28" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-29" data-name="Grupo 423" transform="translate(956.333 1305)">
+      <path id="Trazado_635-29" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-30" data-name="Grupo 423" transform="translate(956.333 1334)">
+      <path id="Trazado_635-30" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-31" data-name="Grupo 423" transform="translate(956.333 1363)">
+      <path id="Trazado_635-31" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Grupo_423-32" data-name="Grupo 423" transform="translate(956.333 1388.992)">
+      <path id="Trazado_635-32" data-name="Trazado 635" d="M7.995,6.448,1.77.223a.763.763,0,0,0-1.078,0l0,0L.229.682a.763.763,0,0,0,0,1.078l0,0L5.456,6.991.223,12.224a.763.763,0,0,0,0,1.078l0,0,.459.459a.763.763,0,0,0,1.078,0l0,0L7.995,7.532a.772.772,0,0,0,0-1.086Z" transform="translate(0.002 0.002)" fill="#1b3f5e"/>
+    </g>
+    <g id="Rectángulo_41451" data-name="Rectángulo 41451" transform="translate(417.333 1193)" fill="#f0f8ff" stroke="#d84318" stroke-width="2">
+      <rect width="211" height="41" stroke="none"/>
+      <rect x="1" y="1" width="209" height="39" fill="none"/>
+    </g>
+    <g id="Rectángulo_41452" data-name="Rectángulo 41452" transform="translate(918.333 1193)" fill="#f0f8ff" stroke="#d84318" stroke-width="2">
+      <rect width="275" height="41" stroke="none"/>
+      <rect x="1" y="1" width="273" height="39" fill="none"/>
+    </g>
+    <text id="Según_su_función" data-name="Según su función" transform="translate(523.333 1221)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-78.579" y="0">Según su función</tspan></text>
+    <text id="Según_su_criterio_operativo" data-name="Según su criterio operativo" transform="translate(1056.333 1221)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-122.261" y="0">Según su criterio operativo</tspan></text>
+    <path id="Trazado_194410" data-name="Trazado 194410" d="M-12286.667-9483v26.2" transform="translate(12809.5 10716.001)" fill="none" stroke="#d84318" stroke-width="2"/>
+    <path id="Trazado_194411" data-name="Trazado 194411" d="M-12286.667-9483v26.2" transform="translate(13342.5 10716.001)" fill="none" stroke="#d84318" stroke-width="2"/>
+    <path id="Trazado_194409" data-name="Trazado 194409" d="M-12286.667-9483v31" transform="translate(10491.333 -11290.166) rotate(-90)" fill="none" stroke="#1b3f5e" stroke-width="2"/>
+    <path id="Trazado_194407" data-name="Trazado 194407" d="M-12286.667-9483v23.333" transform="translate(13386.333 10090)" fill="none" stroke="#1b3f5e" stroke-width="2"/>
+    <path id="Trazado_194406" data-name="Trazado 194406" d="M-12286.667-9483v23.333" transform="translate(13086.5 10090)" fill="none" stroke="#1b3f5e" stroke-width="2"/>
+  </g>
+</svg>
