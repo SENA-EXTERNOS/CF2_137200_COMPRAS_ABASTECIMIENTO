@@ -39,26 +39,6 @@ export default {
         numero: '1',
         titulo: 'Herramientas operativas del control de inventarios',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Usos',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Tipos',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Características',
-            hash: 't_1_3',
-          },
-        ],
       },
 
       {
@@ -67,26 +47,6 @@ export default {
         numero: '2',
         titulo: 'Ciclo de abastecimiento',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Niveles de stock',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Rotura de stock',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Cantidad económica a pedir',
-            hash: 't_2_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -94,26 +54,6 @@ export default {
         numero: '3',
         titulo: 'Indicadores de gestión de inventarios',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Niveles de stock',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Rotura de stock',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Cantidad económica a pedir',
-            hash: 't_3_3',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -158,12 +98,25 @@ export default {
   },
   complementario: [
     {
-      tema: 'Sistema de control de inventario',
+      tema: 'Herramientas operativas del control de inventarios',
       referencia:
-        'Aristizábal, A. González, L. Serna, J. (2014). Sistemas de control de inventario. Tesis de grado, Universidad Autónoma de Occidente.',
+        'Cruz Fernández, A. (2017). <em>UF0476 Gestión de inventarios</em>. IC Editorial.',
+      tipo: 'Manual',
+      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=10484',
+    },
+    {
+      tema: 'Ciclo de abastecimiento',
+      referencia: 'Westreicher, G. (2020). <em>Suministro</em>. Economipedia.',
+      tipo: 'Página web',
+      link: 'https://economipedia.com/definiciones/suministro.html',
+    },
+    {
+      tema: 'Indicadores de gestión de inventarios',
+      referencia:
+        'Peña Delgado, K. G. (2019). <em>Diseño e Implementación de políticas empresariales en la empresa CLASEM SAC</em>. [Tesis de pregrado] Repositorio institucional Universidad Nacional Tecnológica de Lima Sur.',
       tipo: 'PDF',
       link:
-        'https://drive.google.com/drive/u/0/folders/1SG-BhjUXTIMk7pdp4kY-1MUrEn65x7PP ',
+        'https://repositorio.untels.edu.pe/jspui/bitstream/123456789/81/1/Pe%C3%B1a_Kimberly_Trabajo_Suficiencia_2019.pdf',
     },
   ],
   glosario: [
@@ -240,48 +193,7 @@ export default {
   ],
   referencias: [
     {
-      referencia:
-        'Cartilla: Arenal Laza, C. (2020). <em>Gestión de inventarios</em>. Logroño: Tutor de Formación.',
-      link: '',
-    },
-    {
-      referencia:
-        'Libro: Cruz Fernández, A. (2017). <em>Gestión de Inventarios</em>. IC Editorial.',
-      link: '',
-    },
-    {
-      referencia:
-        'Libro: Guerrero Salas, H. (2009). <em>Inventarios, manejo y control</em>. Bogotá: Ecoes Ediciones.',
-      link: '',
-    },
-    {
-      referencia:
-        'Libro: Mora García, L. A. (2008). <em>Indicadores de la gestión logística</em>. Bogotá: Ecoe ediciones.',
-      link: '',
-    },
-    {
-      referencia:
-        'Libro: Mora García, L. A. (2011). <em>Gestión logística en centros de distribución, bodegas y almacenes</em>. Bogotá: Ecoe Ediciones.',
-      link: '',
-    },
-    {
-      referencia:
-        'Libro: Rubio Ferrer, J. (2011). <em>Gestión y pedido de stock</em>. Madrid: Ministerio de educación y formación profesional de España.',
-      link: '',
-    },
-    {
-      referencia:
-        'Libro: Silvera Escudero, R. e. (2022). <em>Ciclos Logísticos: planeación y estrategias de cadenas de suministro</em>. Bogotá: ECOE EDICIONES.',
-      link: '',
-    },
-    {
-      referencia:
-        'Libro: Vidal Holguín, C. J. (2020). <em>Fundamentos de control y gestión de inventarios</em>. Cali: Programa editorial universidad del valle.',
-      link: '',
-    },
-    {
-      referencia:
-        'Libro: Yuseff M., N. D.-A.-C. (2020). <em>Gestión de inventarios, gestión del conocimiento, gestión de mantenimiento</em>. Bogotá: Editorial Universidad Icesi.',
+      referencia: '',
       link: '',
     },
   ],

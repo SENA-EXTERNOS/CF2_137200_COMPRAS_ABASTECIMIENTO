@@ -21,10 +21,12 @@
       .col-lg-2.col-xs-1
       .col-lg-8.col-xs-10
         figure
-          img(src='@/assets/curso/temas/tema2/img2.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema2/img1.svg', alt='Texto que describa la imagen')
       .col-lg-2.col-xs-1
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
+      p La siguiente es la especificación de cada fase:
+
       .col-lg-9
         TabsA.color-primario.mb-5        
           .tarjeta.clr-paleYellow.p-4(titulo="La primera fase")
@@ -48,10 +50,13 @@
           img(src='@/assets/curso/temas/tema2/img3.png', alt='Texto que describa la imagen')
         
 
-    #t_2_1
-
-    .titulo-segundo.color-acento-contenido.mt-5
-      h2 2.1  Niveles de #[i stock]
+    .row.mt-3
+      .list.mb-3(data-aos="fade-down")
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/temas/tema1/li.svg', alt='')
+          .list__txt
+            h3.mb-0.tv Niveles de #[i stock]
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
 
@@ -71,17 +76,14 @@
       .col-lg-2.col-xs-1
       .col-lg-8.col-xs-10
         figure
-          img(src='@/assets/curso/temas/tema2/img6.png', alt='Texto que describa la imagen') 
+          img(src='@/assets/curso/temas/tema2/img6.svg', alt='Texto que describa la imagen') 
       .col-lg-2.col-xs-1
 
     .row.mt-5
 
       p A continuación, se describen los niveles de #[i Stocks]:
 
-      ul.lista-ul--color
-        li 
-          i.fas.fa-angle-right
-          | #[b #[i Stocks] según su función]
+      h4 #[b Stocks] según su función
 
     SlyderF(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-acento-contenido.p-4
@@ -116,14 +118,11 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img20.png' alt='AvatarTop')
-        h2.text-center #[i Stock] de transito
+        h2.text-center #[i Stock] de tránsito
         p.text-center Este #[i stock] se origina por la necesidad de auto proveerse de cierta materia prima o insumo como respuesta a la demora de los proveedores para despachar materias o materias primas necesarias para su producción o comercialización.
       
     .row.mt-5
-      ul.lista-ul--color
-        li 
-          i.fas.fa-angle-right
-          | #[b #[i Stocks] según su utilización en el proceso productivo:]
+      h4 #[i Stocks] según su utilización en el proceso productivo:
 
     .row.justify-content-center.mb-5
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -154,120 +153,136 @@
             p.mb-0 Son todos aquellos productos que ya han culminado su proceso productivo y que están disponibles para ser comercializados, almacenados o distribuidos a clientes finales.
 
     .row.mt-5
-      ul.lista-ul--color
-        li 
-          i.fas.fa-angle-right
-          | #[b #[i Stocks] según el criterio operativo:]
+      h4 #[i Stocks] según el criterio operativo:
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-lg-9
         TabsA.color-primario.mb-5        
-          .tarjeta.clr-paleYellow.p-4(titulo="Stock Optimo").tarjeta-2
-            h4 #[i Stock] Optimo
+          .tarjeta.clr-paleYellow.p-4(titulo="<em>Stock</em> Óptimo").tarjeta-2
+            h4 #[i Stock] Óptimo
             p Este #[i Stock] obedece al estudio de las cantidades optimas de producto que debe ser almacenado sin que su almacenaje se convierta en una carga financiera para la organización partiendo de la base de los histogramas de ventas de producto en el tiempo.
 
-          .tarjeta.clr-paleYellow.p-4(titulo="Stock cero").tarjeta-2
+          .tarjeta.clr-paleYellow.p-4(titulo="<em>Stock</em> cero").tarjeta-2
             h4 #[i Stock] cero
             p Este concepto de #[i Stock] corresponde precisamente a no tener #[i Stock] disponible obedeciendo a características de la organización u estrategia de producción en la cual solo se trabaja sobre pedidos específicos u ordenes de trabajo.
 
-          .tarjeta.clr-paleYellow.p-4(titulo="Stock físico").tarjeta-2
+          .tarjeta.clr-paleYellow.p-4(titulo="<em>Stock</em> físico").tarjeta-2
             h4 #[i Stock] físico
             p Es la cantidad disponible materialmente en un momento determinada en un almacén, el cual siempre debe ser positivo numéricamente hablando.
 
-          .tarjeta.clr-paleYellow.p-4(titulo="Stock neto").tarjeta-2
+          .tarjeta.clr-paleYellow.p-4(titulo="<em>Stock</em> neto").tarjeta-2
             h4 #[i Stock] neto
             p Este corresponde a la diferencia entre el #[i Stock] físico y la demanda insatisfecha de un producto, este se puede dar en términos numéricos negativos lo cual nos confirma demandas insatisfechas.
 
-          .tarjeta.clr-paleYellow.p-4(titulo="Stock disponible").tarjeta-2
+          .tarjeta.clr-paleYellow.p-4(titulo="<em>Stock</em> disponible").tarjeta-2
             h4 #[i Stock] disponible
             p Corresponde al #[i Stock] físico, más los pedidos hechos a proveedores de ese producto menos la demanda insatisfecha de dicho producto.
 
+          
 
       .col-lg-3
         figure
           img(src='@/assets/curso/temas/tema2/img13.png', alt='Texto que describa la imagen')
 
-    separador
+    .row.mt-3
+      .list.mb-3(data-aos="fade-down")
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/temas/tema1/li.svg', alt='')
+          .list__txt
+            h3.mb-0.tv Rotura de #[i stock]
 
-    #t_2_2
-
-    .titulo-segundo.color-acento-contenido.mt-5
-      h2 2.2  Rotura de #[i stock]
-
-    .row.justify-content-around.align-items-center.mt-5.mb-5
+    .row.justify-content-around.align-items-center.mb-5
       .col-lg-4
         figure
           img(src='@/assets/curso/temas/tema2/img14.png', alt='Texto que describa la imagen')
       .col-lg-8
-        p El concepto claro de la rotura del #[i stock] en procesos de almacenamiento y producción, corresponde a momentos no deseados dentro de una actividad productiva y a aquellos momentos en que una organización no tiene #[i stock] para poder responder a la demanda de sus clientes en el mercado que se ve traducido en costos innecesarios de no venta total o parcial de dicho bien.  Escenario indeseado ya que se abre la posibilidad a que la competencia tome esta desventaja como oportunidad y fidelice el cliente que ya había sido de alguna manera capitalizado por la empresa, esta situación puede generar gastos no planeados al tratar de reponer de forma urgente un producto en estas condiciones.
+        p La rotura del stock, en procesos de almacenamiento y producción, se refiere a una alteración en la cadena de suministro que se expone cuando la empresa no tiene la mercancía suficiente de uno o varios productos y no puede responder a la demanda de sus clientes en el mercado. Corresponde a espacios no deseados dentro de una actividad productiva en la que una organización no tiene stock, presentándose un escenario indeseado que abre una posibilidad para que la competencia tome esta oportunidad y fidelice al cliente que ya había sido capitalizado por la empresa. Esta situación puede generar gastos no planeados, al tratar de reponer, de forma urgente, un producto en estas condiciones.
 
         .cajonIntro.bgr-tarjeta-intro.p-4
-            p Llevando el concepto al análisis de la situación, esta se puede dar por motivos externos y fortuitos que se pueden salir del análisis de abastecimiento, estas pueden ser fallas en el transporte o condiciones climatológicas u otras más extremas, como conflictos bélicos y cuellos de botellas en procesos de importación de materias primas o insumos, lo que no se puede tolerar es que la falla sea interna por falta de gestión en almacenes o en procesos logísticos internos que se suponen deben funcionar tal cual reloj suizo.
+            p Al realizar un estudio de la situación, la conclusión puede llegar a aportar motivos externos y fortuitos que se pueden salir del análisis de abastecimiento: fallas en el transporte o condiciones climatológicas, conflictos bélicos y cuellos de botella en procesos de importación de materias primas o de insumos.
 
+        p Lo que no es aceptable es que la falla se presente por una situación interna, por falta de gestión en almacenes o en procesos logísticos que, se supone, deben funcionar con exactitud.        
 
     .row.justify-content-center.mb-5
 
-      p #[b Existen dos casos de rotura de #[i stock]]
+      p Se conocen dos casos en los que se presenta una rotura de #[i stock]:
 
       .col-lg-8
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-          .row(titulo="Diferida")
+          .row(titulo="Ruptura de <em>stock</em> diferida ")
             .col-lg-12.col-md-6.mb-4.mb-md-0
-              p Se da cuando se realizan pedidos y no tenemos posibilidad de cumplir por tener #[i Stock] insuficiente y no se puede entregar el pedido completo, aquí se generan costos difícilmente medibles y cuantificables generando consecuencias negativas, como entregas a destiempo, la insatisfacción de los clientes quienes confiaron en la organización, además de generar perdida en la imagen de la empresa.
+              p Se presenta cuando a la empresa llegan pedidos y no hay posibilidad de cumplir, por tener un #[i stock] insuficiente y no se puede entregar el pedido completo. En este caso, se generan costos difícilmente medibles y cuantificables, que acarrean unas consecuencias negativas: entregas a destiempo, insatisfacción de los clientes, pérdida de confianza de los mismos y disminución de la imagen de la empresa.
 
-          .row(titulo="Perdida")
+          .row(titulo="Ruptura de <em>stock</em> por pérdida")
             .col-lg-12.col-md-6.mb-4.mb-md-0
-              p Ocurre cuando definitivamente no se puede cumplir con un pedido generado por un cliente por falta de #[i Stock] u #[i Stock] negativo, ahí precisamente se genera el coste de rotura que se da por la mencionada incapacidad de cumplir con un pedido.
+              p Sobreviene cuando definitivamente no se puede cumplir con un pedido de un cliente, por falta de mercancía o de un #[i stock] negativo. En este caso, se genera el costo de una ruptura, por la mencionada incapacidad de cumplir con un pedido.
 
       .col-8.col-lg-4
         figure
           img(src="@/assets/curso/temas/tema2/img15.png", alt="alt")
       
 
-    separador
-    
-    #t_2_3
+    .row.mt-3
+      .list.mb-3(data-aos="fade-down")
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/temas/tema1/li.svg', alt='')
+          .list__txt
+            h3.mb-0.tv Cantidad económica a pedir
 
-    .titulo-segundo.color-acento-contenido.mt-5
-      h2 2.3  Cantidad económica a pedir
-
-    .row.justify-content-around.align-items-center.mt-5.mb-5
-      .col-lg-8
-        p En la gestión de inventarios, no todos los esfuerzos van concentrados en las salidas de productos terminados. Las entradas por concepto de reaprovisionamiento son fundamentales para el funcionamiento óptimo de toda gestión logística y de inventarios, para ello también existen unas metodologías que deben ser tenidas en cuenta para controlar el proceso de inventarios en niveles deseados para la operatividad del proceso productivo.
-
-        .cajonIntro.bgr-tarjeta-intro.p-4
-            p Para ser más eficiente el proceso, se generan unas reglas para la gestión de los inventarios que permiten generar distintas alarmas que nos indique cuando el inventario se debería reaprovisionar (nivel de disparo: consiste en identificar los niveles mínimos en los cuales se deben reaprovisionar una mercancía, materia prima o insumo) y crear nuevas órdenes de compra que den respuesta a los niveles mínimos y máximos de inventarios que se requieren para evitar rotura de #[i Stock] y quizá una desafortunada parada de producción o incumplimientos de entrega con los clientes.
-            
+    .row.justify-content-around.align-items-center.mb-5
       .col-lg-4
         figure
           img(src='@/assets/curso/temas/tema2/img16.png', alt='Texto que describa la imagen')
 
+      .col-lg-8
+        p En la gestión de inventarios, no todos los esfuerzos van concentrados en las salidas de productos terminados. Las entradas, por concepto de reaprovisionamiento, son fundamentales para el funcionamiento óptimo de toda gestión logística y de inventarios; para una solución potencial, existen unas metodologías que se deben tener en cuenta, para controlar el proceso de inventarios con niveles deseados de almacenamiento, para una buena operatividad del proceso productivo.
+
     .row.justify-content-around.align-items-center.mt-5.mb-5
+      p La siguiente figura, ilustra las generalidades de una cantidad económica por pedir o costos de pedido:
       .col-3
       .col-lg-6
         figure
           img(src='@/assets/curso/temas/tema2/img17.png', alt='Texto que describa la imagen')
       .col-3
 
+    
+    .row.mt-5.justify-content-center.align-items-center
+      .col-lg-8
+        .cajonIntro.bgr-tarjeta-intro.p-4
+            p Para hacer más eficiente el proceso, se establecen unas reglas para la gestión de los inventarios, las cuales permiten generar diferentes alarmas que indiquen el momento apropiado en que el inventario se debe reaprovisionar.
+
+        p.mt-3 El nivel de disparo consiste en identificar los niveles mínimos en los cuales se debe abastecer una mercancía, la materia prima o insumos y establecer nuevas órdenes de compra que aporten una respuesta a los niveles mínimos y máximos de los inventarios que se requieren para evitar una ruptura de stock y, quizás, una desafortunada detención de la producción o unos incumplimientos de entrega para con los clientes.
+
+      .col-lg-4
+        figure
+          img(src='@/assets/curso/temas/tema2/img2.svg', alt='Texto que describa la imagen')
+
+    .row.mt-5
+      p Observe con atención el siguiente video que le aporta conocimiento sobre las generalidades y aspectos claves del ciclo de abastecimiento.
+    
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Leyenda del video 
 
 
-    .tarjeta.color-primario.p-3.mb-5.mt-5
-      .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/tema2/img18.png")
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              h3.mb-1 Ejemplo del Modelo Wilson
-              p.text-small Si desea ver un ejemplo de cómo se aplica el modelo Wilson, #[b haga clic en descargar para ver el Anexo.] 
-            .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_Ejemplo_Modelo_Wilson.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
+    .row.justify-content-center.align-items-center
+      .col-lg-10
+        .tarjeta.color-primario.p-3.mb-5.mt-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/tema2/img18.png")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-1 Ejemplo del Modelo Wilson
+                  p.text-small Presentamos algunos elementos importantes que, para el ciclo de abastecimiento, aporta el modelo Wilson; analice el ejemplo para la aplicación del mismo, en el Anexo 1: #[b Ejemplo del Modelo Wilson]. 
+                .col-sm-auto
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_Ejemplo_Modelo_Wilson.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
 
     
 

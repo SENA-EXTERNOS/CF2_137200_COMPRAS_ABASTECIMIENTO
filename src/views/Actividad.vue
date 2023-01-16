@@ -10,8 +10,10 @@
             img(src="@/assets/template/completar_frase.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Completar la frase
-        p.mb-4 Completar espacios para reconocer procesos claves en el control de inventarios y así apropiarse de conocimientos relacionados con el seguimiento de inventarios, según métodos de control.
+          h2 Seguimiento de inventario y ciclos de abastecimiento
+        p.mb-4 Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
+        p Lea atentamente los enunciados propuestos y digite, en el campo vacío, las palabras o términos que completan correctamente las proposiciones.
+
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

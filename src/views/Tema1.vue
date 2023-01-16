@@ -14,10 +14,13 @@
       .bloque-texto-g__texto2.p-4
         p.mb-0 Para la gestión de los inventarios, las organizaciones deben tener claro que la oportunidad de un negocio está en tener los volúmenes óptimos de mercancía que se pueda mercadear y cuando se habla de los volúmenes óptimos, hay que pensar que existen mercancías que se pueden arruinar por sobre inventariar, acto que lastima las finanzas de la organización, ya que se invierten recursos que muchas veces quedan almacenados en estanterías, quizás perdiendo vida útil, depreciándose o llegando a su fecha de vencimiento. En otras ocasiones se presenta que las organizaciones no establecen #[i stocks] mínimos de mercancía que les permita tener una capacidad de reacción frente a su competencia en la materialización de una posible oportunidad de negocio o potenciar la venta que mueva la caja registradora y refresque el ciclo de inventario.
 
-    #t_1_1
-
-    .titulo-segundo.color-acento-contenido.mt-5
-      h2 1.1  Usos
+    .row.mt-5
+      .list.mb-3(data-aos="fade-down")
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/temas/tema1/li.svg', alt='')
+          .list__txt
+            h3.mb-0.tv Usos
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-lg-4.mb-5.mb-lg-0
@@ -29,12 +32,13 @@
           .bloque-texto-b__texto
             p Las herramientas para el control de inventarios precisamente permiten planear, aplicar y ejecutar de una manera sistémica, las existencias de: productos, materiales, materias primas o insumos, lo que ayuda a reducir costos, acelerar los procesos logísticos, evitar fraudes y realizar informes sobre el estado financiero del negocio. ¿Y por qué controlarlo todo es una pregunta muy válida? La respuesta es tan sencilla como la pregunta, esto se da por los recursos invertidos, estos pueden ser el mismo dinero al importar, adquirir o trasformar materias primas en productos terminados, además de almacenar y conservar para que no pierdan valor durante el tiempo de almacenamiento, no se pierdan, no se deterioren y estén disponibles como moneda de cambio en la sociedad económica, ya que el buen uso de los inventarios en las organizaciones puedan hacer parte de la diferenciación, entre una empresa dinámica que genere riqueza, a otra que lo haga por accidente o necesidad.
 
-    separador
-
-    #t_1_2
-
-    .titulo-segundo.color-acento-contenido.mt-5
-      h2 1.2  Tipos
+    .row.mt-5
+      .list.mb-3(data-aos="fade-down")
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/temas/tema1/li.svg', alt='')
+          .list__txt
+            h3.mb-0.tv Tipos de herramientas para el control de inventarios 
 
     .row.justify-content-around.align-items-center
       .col-lg-2
@@ -127,16 +131,15 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img10.png', alt='Texto que describa la imagen')
-              
-        
+                    
 
-
-    separador
-    
-    #t_1_3
-
-    .titulo-segundo.color-acento-contenido.mt-5
-      h2 1.3  Características
+    .row.mt-5
+      .list.mb-3(data-aos="fade-down")
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/temas/tema1/li.svg', alt='')
+          .list__txt
+            h3.mb-0.tv Características del uso de herramientas de control de inventarios
 
     .row
       p Después de conocer las herramientas más utilizadas en el sector real, ahora es importante resaltar las características más relevantes del uso adecuado de estas, según la necesidad de cada industria:
