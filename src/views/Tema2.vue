@@ -140,7 +140,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/img11.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 #[i Stock] de productos semi terminados o en proceso
+            h4.mb-3.margen-tarjetas #[i Stock] de productos semi terminados o en proceso
             p.mb-0 Son los inventarios que corresponden a productos que aún no han sido culminados en su proceso productivo por distintos motivos y que se tienen que controlar por motivos de producción, logísticos y contables.
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -197,7 +197,7 @@
         figure
           img(src='@/assets/curso/temas/tema2/img14.png', alt='Texto que describa la imagen')
       .col-lg-8
-        p La rotura del stock, en procesos de almacenamiento y producción, se refiere a una alteración en la cadena de suministro que se expone cuando la empresa no tiene la mercancía suficiente de uno o varios productos y no puede responder a la demanda de sus clientes en el mercado. Corresponde a espacios no deseados dentro de una actividad productiva en la que una organización no tiene stock, presentándose un escenario indeseado que abre una posibilidad para que la competencia tome esta oportunidad y fidelice al cliente que ya había sido capitalizado por la empresa. Esta situación puede generar gastos no planeados, al tratar de reponer, de forma urgente, un producto en estas condiciones.
+        p La rotura del <em>stock</em>, en procesos de almacenamiento y producción, se refiere a una alteración en la cadena de suministro que se expone cuando la empresa no tiene la mercancía suficiente de uno o varios productos y no puede responder a la demanda de sus clientes en el mercado. Corresponde a espacios no deseados dentro de una actividad productiva en la que una organización no tiene <em>stock</em>, presentándose un escenario indeseado que abre una posibilidad para que la competencia tome esta oportunidad y fidelice al cliente que ya había sido capitalizado por la empresa. Esta situación puede generar gastos no planeados, al tratar de reponer, de forma urgente, un producto en estas condiciones.
 
         .cajonIntro.bgr-tarjeta-intro.p-4
             p Al realizar un estudio de la situación, la conclusión puede llegar a aportar motivos externos y fortuitos que se pueden salir del análisis de abastecimiento: fallas en el transporte o condiciones climatológicas, conflictos bélicos y cuellos de botella en procesos de importación de materias primas o de insumos.
@@ -253,7 +253,7 @@
         .cajonIntro.bgr-tarjeta-intro.p-4
             p Para hacer más eficiente el proceso, se establecen unas reglas para la gestión de los inventarios, las cuales permiten generar diferentes alarmas que indiquen el momento apropiado en que el inventario se debe reaprovisionar.
 
-        p.mt-3 El nivel de disparo consiste en identificar los niveles mínimos en los cuales se debe abastecer una mercancía, la materia prima o insumos y establecer nuevas órdenes de compra que aporten una respuesta a los niveles mínimos y máximos de los inventarios que se requieren para evitar una ruptura de stock y, quizás, una desafortunada detención de la producción o unos incumplimientos de entrega para con los clientes.
+        p.mt-3 El nivel de disparo consiste en identificar los niveles mínimos en los cuales se debe abastecer una mercancía, la materia prima o insumos y establecer nuevas órdenes de compra que aporten una respuesta a los niveles mínimos y máximos de los inventarios que se requieren para evitar una ruptura de <em>stock</em> y, quizás, una desafortunada detención de la producción o unos incumplimientos de entrega para con los clientes.
 
       .col-lg-4
         figure

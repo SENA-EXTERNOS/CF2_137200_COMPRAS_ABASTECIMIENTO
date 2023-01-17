@@ -17,7 +17,7 @@
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-lg-8
         .cajonIntro.bgr-tarjeta-intro.p-4
-          p Los indicadores de gestión de inventarios, permiten evaluar la disponibilidad de un stock real, teniendo a la mano, información como:
+          p Los indicadores de gestión de inventarios, permiten evaluar la disponibilidad de un <em>stock</em> real, teniendo a la mano, información como:
           ul.lista-ul--color
             li 
               i.fas.fa-check
@@ -28,7 +28,7 @@
 
             li 
               i.fas.fa-check
-              | Conocimiento del promedio de las pérdidas de stock que se presenta cada cierto periodo de tiempo.
+              | Conocimiento del promedio de las pérdidas de <em>stock</em> que se presenta cada cierto periodo de tiempo.
 
         
     .row.mt-3
@@ -45,8 +45,9 @@
           img(src='@/assets/curso/temas/tema3/img2.png', alt='Texto que describa la imagen') 
 
       .col-lg-10
-        p La administración de inventarios repercute en la operación que se realiza en el negocio y sobre todo a negocios que se dedican a comercializar muchos productos y a muchos clientes, como son las empresas de #[i retail], que deben trabajar con indicadores de gestión de inventarios que estén alineados con el cumplimiento de las metas empresariales, alguna de las más frecuentes son las siguientes:
-      
+        p La administración de los inventarios repercute en la operación que se realiza en la empresa y, sobre todo, en negocios dedicados a comercializar grandes cantidades de productos y variedad de clientes, como son las empresas de retail, que deben trabajar con indicadores de gestión de inventarios, que se encuentren alineados con el cumplimiento de las metas empresariales.
+    
+    p Analicemos el siguiente esquema, para conocer los tipos de indicadoresde en los inventarios.
     
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-lg-3.col-xs-1
@@ -67,16 +68,16 @@
               ul.lista-ul--color
                 li 
                   i.fas.fa-check
-                  | Índice de rotación
+                  | Índice de rotación.
                 li 
                   i.fas.fa-check
-                  | Índice de cobertura
+                  | Índice de cobertura.
                 li 
                   i.fas.fa-check
-                  | Índice de exactitud del inventario
+                  | Índice de exactitud del inventario.
                 li 
                   i.fas.fa-check
-                  | Índice de regularización
+                  | Índice de regularización.
 
     .tarjeta.color-primario.p-3.mb-5
       .row.justify-content-around.align-items-center
@@ -148,7 +149,7 @@
         p En un solo tablero se podrá visualizar el rendimiento operativo, para evaluar mejor lo que se ha avanzado y lo que queda por hacer y para alcanzar los objetivos.
 
         .cajonIntro.bgr-tarjeta-intro.p-4
-            p Los KPI son similares a los tableros de mando balance score card. Se usan para el análisis de los indicadores que son susceptibles de medir, en la organización.
+            p Los KPI son similares a los tableros de mando <em>balance score card</em>. Se usan para el análisis de los indicadores que son susceptibles de medir, en la organización.
 
     .row
       .col-lg-2.col-sm-4

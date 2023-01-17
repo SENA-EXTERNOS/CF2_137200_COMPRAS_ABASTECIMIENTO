@@ -193,7 +193,48 @@ export default {
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Arenal, C. (2020). <em>Gestión de inventarios</em>. Logroño: Tutor de Formación.',
+      link: '',
+    },
+    {
+      referencia:
+        'Cruz, A. (2017). <em>Gestión de Inventarios</em>. IC Editorial.',
+      link: '',
+    },
+    {
+      referencia:
+        'Guerrero, H. (2009). <em>Inventarios, manejo y control</em>. Ecoes Ediciones.',
+      link: '',
+    },
+    {
+      referencia:
+        'Mora, L. (2008). <em>Indicadores de la gestión logística</em>. Ecoe ediciones.',
+      link: '',
+    },
+    {
+      referencia:
+        'Mora, L. (2011). <em>Gestión logística en centros de distribución, bodegas y almacenes</em>. Ecoe Ediciones.',
+      link: '',
+    },
+    {
+      referencia:
+        'Rubio, J. (2011). <em>Gestión y pedido de stock</em>. Ministerio de educación y formación profesional de España.',
+      link: '',
+    },
+    {
+      referencia:
+        'Silvera, R. (2022). <em>Ciclos Logísticos: planeación y estrategias de cadenas de suministro</em>. ECOE EDICIONES.',
+      link: '',
+    },
+    {
+      referencia:
+        'Vidal, C. (2020). <em>Fundamentos de control y gestión de inventarios</em>. Programa editorial universidad del valle.',
+      link: '',
+    },
+    {
+      referencia:
+        'Yuseff, M. (2020). <em>Gestión de inventarios, gestión del conocimiento, gestión de mantenimiento</em>. Editorial Universidad Icesi.',
       link: '',
     },
   ],
