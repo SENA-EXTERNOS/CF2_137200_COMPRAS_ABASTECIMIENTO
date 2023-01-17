@@ -17,18 +17,18 @@
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-lg-8
         .cajonIntro.bgr-tarjeta-intro.p-4
-          p Los indicadores de gestión de inventarios, permiten evaluar la disponibilidad de un <em>stock</em> real, teniendo a la mano, información como:
+          p Los indicadores de gestión de inventarios, permiten evaluar la disponibilidad de un #[i stock] real, teniendo a la mano, información como:
           ul.lista-ul--color
             li 
               i.fas.fa-check
-              | El promedio de materias primas que se almacena en la bodega.
+              p.mb-0 El promedio de materias primas que se almacena en la bodega.
             li 
               i.fas.fa-check
-              | El nivel óptimo de inventario que se requiere para el cumplimiento de las metas en las ventas.
+              p.mb-0 El nivel óptimo de inventario que se requiere para el cumplimiento de las metas en las ventas.
 
             li 
               i.fas.fa-check
-              | Conocimiento del promedio de las pérdidas de <em>stock</em> que se presenta cada cierto periodo de tiempo.
+              p.mb-0 Conocimiento del promedio de las pérdidas de #[i stock] que se presenta cada cierto periodo de tiempo.
 
         
     .row.mt-3
