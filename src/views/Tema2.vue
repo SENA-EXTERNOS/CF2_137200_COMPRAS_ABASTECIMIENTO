@@ -280,7 +280,7 @@
                   h3.mb-1 Ejemplo del Modelo Wilson
                   p.text-small Presentamos algunos elementos importantes que, para el ciclo de abastecimiento, aporta el modelo Wilson; analice el ejemplo para la aplicación del mismo, en el Anexo 1: #[b Ejemplo del Modelo Wilson]. 
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_Ejemplo_Modelo_Wilson.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

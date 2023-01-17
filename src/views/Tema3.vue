@@ -88,7 +88,7 @@
               h3.mb-1 Cálculo de índices de gestión de inventarios
               p.text-small Para ampliar sus conocimientos sobre los cálculos de índices en la gestión de los inventarios, profundice en el anexo 2. Cálculo de índices de gestión de inventarios.
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     
