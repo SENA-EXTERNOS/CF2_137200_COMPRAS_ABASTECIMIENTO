@@ -86,35 +86,35 @@
       h4 #[b Stocks] según su función
 
     SlyderF(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img7.png' alt='AvatarTop')
         h2.text-center #[i Stock] de ciclo
         p.text-center Son usados para hacer frente a una demanda constante de un bien en una sociedad, para ello se crea un #[i stock] que se va agotando en el transcurso del tiempo.
 
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img8.png' alt='AvatarTop')
         h2.text-center #[i Stock] de seguridad
         p.text-center Son los que nos permiten protegernos frente a una situación anómala que pueda generar escasez de una materia prima o insumo vital en un proceso productivo.
       
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img9.png' alt='AvatarTop')
         h2.text-center #[i Stock] por anticipación
         p.text-center Se trata de aprovisionamiento de unas existencias con anterioridad a una época reconocida por grandes ventas de ese bien que se almacena, o a una promoción favorable para la organización.
 
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img19.png' alt='AvatarTop')
         h2.text-center #[i Stock] estacional
         p.text-center Se da para hacer frente a un aumento esperado de las ventas en una temporada.
 
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img20.png' alt='AvatarTop')
@@ -125,32 +125,26 @@
       h4 #[i Stocks] según su utilización en el proceso productivo:
 
     .row.justify-content-center.mb-5
-      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
-        .crd_hover_txt(data-aos="flip-left")
-          .crd_hover_txt--img
-            figure
-              img(src="@/assets/curso/temas/tema2/img10.png", alt="alt")
-          .crd_hover_txt--body
-            h4.mb-3 #[i Stock] de materias primas
-            p.mb-0 Son las cantidades necesarias para la producción de un bien en un determinado tiempo: días, meses, años y es indispensable establecer para no generar cuellos de botella en procesos productivos y avances en logística.
+      .col-lg-4.col-md-9.col-11.mb-4.mb-xl-0.border-card  
+        figure
+        img(src="@/assets/curso/temas/tema2/img10.png", alt="alt")
+        .bg-card.p-5
+          h4.mb-3 #[i Stock] de materias primas
+          p.mb-0 Son las cantidades necesarias para la producción de un bien en un determinado tiempo: días, meses, años y es indispensable establecer para no generar cuellos de botella en procesos productivos y avances en logística.
 
-      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
-        .crd_hover_txt(data-aos="flip-left")
-          .crd_hover_txt--img
-            figure
-              img(src="@/assets/curso/temas/tema2/img11.png", alt="alt")
-          .crd_hover_txt--body
-            h4.mb-3.margen-tarjetas #[i Stock] de productos semi terminados o en proceso
-            p.mb-0 Son los inventarios que corresponden a productos que aún no han sido culminados en su proceso productivo por distintos motivos y que se tienen que controlar por motivos de producción, logísticos y contables.
+      .col-lg-4.col-md-9.col-11.mb-4.mb-xl-0.border-card  
+        figure
+        img(src="@/assets/curso/temas/tema2/img11.png", alt="alt")
+        .bg-card.p-5
+          h4.mb-3 #[i Stock] de productos semi terminados o en proceso
+          p.mb-0 Son los inventarios que corresponden a productos que aún no han sido culminados en su proceso productivo por distintos motivos y que se tienen que controlar por motivos de producción, logísticos y contables.
 
-      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
-        .crd_hover_txt(data-aos="flip-left")
-          .crd_hover_txt--img
-            figure
-              img(src="@/assets/curso/temas/tema2/img12.png", alt="alt")
-          .crd_hover_txt--body
-            h4.mb-3 #[i Stocks] de productos terminados
-            p.mb-0 Son todos aquellos productos que ya han culminado su proceso productivo y que están disponibles para ser comercializados, almacenados o distribuidos a clientes finales.
+      .col-lg-4.col-md-9.col-11.mb-4.mb-xl-0.border-card  
+        figure
+        img(src="@/assets/curso/temas/tema2/img12.png", alt="alt")
+        .bg-card.p-5
+          h4.mb-3 #[i Stocks] de productos terminados
+          p.mb-0 Son todos aquellos productos que ya han culminado su proceso productivo y que están disponibles para ser comercializados, almacenados o distribuidos a clientes finales.
 
     .row.mt-5
       h4 #[i Stocks] según el criterio operativo:

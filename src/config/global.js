@@ -123,7 +123,7 @@ export default {
     {
       termino: 'Cadena de suministro',
       significado:
-        ' Es el conjunto de actividades, instalaciones y medios de distribución necesarios para llevar a cabo el proceso de venta de un producto en su totalidad. Esto es, desde la búsqueda de materias primas, su posterior transformación y hasta la fabricación, transporte y entrega al consumidor final. (Westreicher, Economipedia, 2020).',
+        'Es el conjunto de actividades, instalaciones y medios de distribución necesarios para llevar a cabo el proceso de venta de un producto en su totalidad. Esto es, desde la búsqueda de materias primas, su posterior transformación y hasta la fabricación, transporte y entrega al consumidor final. (Westreicher, Economipedia, 2020).',
     },
     {
       termino: 'Canales de distribución',
@@ -195,47 +195,54 @@ export default {
     {
       referencia:
         'Arenal, C. (2020). <em>Gestión de inventarios</em>. Logroño: Tutor de Formación.',
-      link: '',
+      link: 'https://repository.uniminuto.edu/handle/10656/11481?mode=full',
     },
     {
       referencia:
         'Cruz, A. (2017). <em>Gestión de Inventarios</em>. IC Editorial.',
-      link: '',
+      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=10484',
     },
     {
       referencia:
         'Guerrero, H. (2009). <em>Inventarios, manejo y control</em>. Ecoes Ediciones.',
-      link: '',
+      link:
+        'https://www.ecoeediciones.mx/wp-content/uploads/2017/08/Inventarios.-Manejo-y-control-2da-Edici%C3%B3n.pdf',
     },
     {
       referencia:
         'Mora, L. (2008). <em>Indicadores de la gestión logística</em>. Ecoe ediciones.',
-      link: '',
+      link:
+        'https://www.ecoeediciones.com/wp-content/uploads/2015/09/Indicadores-de-la-gestion-logistica.pdf',
     },
     {
       referencia:
         'Mora, L. (2011). <em>Gestión logística en centros de distribución, bodegas y almacenes</em>. Ecoe Ediciones.',
-      link: '',
+      link:
+        'https://www.perlego.com/es/book/3459642/gestin-logstica-en-centros-de-distribucin-bodegas-y-almacenes-pdf',
     },
     {
       referencia:
         'Rubio, J. (2011). <em>Gestión y pedido de stock</em>. Ministerio de educación y formación profesional de España.',
-      link: '',
+      link:
+        'https://sede.educacion.gob.es/publiventa/gestion-de-pedidos-y-stock/ensenanza-comercio-marketing/15832',
     },
     {
       referencia:
         'Silvera, R. (2022). <em>Ciclos Logísticos: planeación y estrategias de cadenas de suministro</em>. ECOE EDICIONES.',
-      link: '',
+      link:
+        'https://www.ecoeediciones.mx/wp-content/uploads/2022/07/Ciclos-logisticos-1ra-edicion-ecoe-ediciones-contenido-9789585033849.pdf',
     },
     {
       referencia:
         'Vidal, C. (2020). <em>Fundamentos de control y gestión de inventarios</em>. Programa editorial universidad del valle.',
-      link: '',
+      link:
+        'https://bibliotecadigital.univalle.edu.co/bitstream/handle/10893/21567/FUNDAMENTOS%20DE%20GESTION%20Y%20CONTROL%20DE%20INVENTARIOS%20APLICADOS%20EN.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
         'Yuseff, M. (2020). <em>Gestión de inventarios, gestión del conocimiento, gestión de mantenimiento</em>. Editorial Universidad Icesi.',
-      link: '',
+      link:
+        'https://sena-externos.github.io/CF2_137200_COMPRAS_ABASTECIMIENTO/#/referencias',
     },
   ],
   creditos: {
