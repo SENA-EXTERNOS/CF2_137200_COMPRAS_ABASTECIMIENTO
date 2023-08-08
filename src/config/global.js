@@ -241,8 +241,7 @@ export default {
     {
       referencia:
         'Yuseff, M. (2020). <em>Gestión de inventarios, gestión del conocimiento, gestión de mantenimiento</em>. Editorial Universidad Icesi.',
-      link:
-        'https://sena-externos.github.io/CF2_137200_COMPRAS_ABASTECIMIENTO/#/referencias',
+      link: 'https://www.icesi.edu.co/editorial/bitacora-6/',
     },
   ],
   creditos: {
