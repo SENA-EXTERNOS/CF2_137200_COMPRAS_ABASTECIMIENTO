@@ -47,7 +47,7 @@
       .col-lg-10
         p La administración de los inventarios repercute en la operación que se realiza en la empresa y, sobre todo, en negocios dedicados a comercializar grandes cantidades de productos y variedad de clientes, como son las empresas de retail, que deben trabajar con indicadores de gestión de inventarios, que se encuentren alineados con el cumplimiento de las metas empresariales.
     
-    p Analicemos el siguiente esquema, para conocer los tipos de indicadoresde en los inventarios.
+    p Analicemos el siguiente esquema, para conocer los tipos de indicadores de en los inventarios.
     
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-lg-3.col-xs-1

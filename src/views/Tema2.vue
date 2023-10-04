@@ -31,7 +31,7 @@
         TabsA.color-primario.mb-5        
           .tarjeta.clr-paleYellow.p-4(titulo="La primera fase")
             h4 La primera fase
-            p La generación de la necesidad que proviene del área de mercadeo, ventas, innovación, dirección general, todas canalizadas desde el área de producción y esta se transfiere al departamento de compras para que este departamento reaccione y justifique la necesidad.
+            p La generación de la necesidad que proviene del área de mercadeo, ventas, innovación, dirección general, todas canalizadas desde el área de producción y transferidas al departamento de compras para que este departamento reaccione y justifique la necesidad.
 
           .tarjeta.clr-paleYellow.p-4(titulo="La segunda fase")
             h4 La segunda fase
@@ -152,8 +152,8 @@
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-lg-9
         TabsA.color-primario.mb-5        
-          .tarjeta.clr-paleYellow.p-4(titulo="<em>Stock</em> Óptimo").tarjeta-2
-            h4 #[i Stock] Óptimo
+          .tarjeta.clr-paleYellow.p-4(titulo="<em>Stock</em> óptimo").tarjeta-2
+            h4 #[i Stock] óptimo
             p Este #[i Stock] obedece al estudio de las cantidades optimas de producto que debe ser almacenado sin que su almacenaje se convierta en una carga financiera para la organización partiendo de la base de los histogramas de ventas de producto en el tiempo.
 
           .tarjeta.clr-paleYellow.p-4(titulo="<em>Stock</em> cero").tarjeta-2
@@ -162,7 +162,7 @@
 
           .tarjeta.clr-paleYellow.p-4(titulo="<em>Stock</em> físico").tarjeta-2
             h4 #[i Stock] físico
-            p Es la cantidad disponible materialmente en un momento determinada en un almacén, el cual siempre debe ser positivo numéricamente hablando.
+            p Es la cantidad disponible materialmente en un momento determinado en un almacén, el cual siempre debe ser positivo numéricamente hablando.
 
           .tarjeta.clr-paleYellow.p-4(titulo="<em>Stock</em> neto").tarjeta-2
             h4 #[i Stock] neto

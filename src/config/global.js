@@ -123,32 +123,32 @@ export default {
     {
       termino: 'Cadena de suministro',
       significado:
-        'Es el conjunto de actividades, instalaciones y medios de distribución necesarios para llevar a cabo el proceso de venta de un producto en su totalidad. Esto es, desde la búsqueda de materias primas, su posterior transformación y hasta la fabricación, transporte y entrega al consumidor final. (Westreicher, Economipedia, 2020).',
+        'Es el conjunto de actividades, instalaciones y medios de distribución necesarios para llevar a cabo el proceso de venta de un producto en su totalidad. Esto es, desde la búsqueda de materias primas, su posterior transformación y hasta la fabricación, transporte y entrega al consumidor final (Westreicher, Economipedia, 2020).',
     },
     {
       termino: 'Canales de distribución',
       significado:
-        'Están definidos por las diferentes fases o etapas por las que un producto pasa, de modo que su propiedad va pasando de unas manos a otras. Desde el fabricante al consumidor o usuario final. (Galán, 2021).',
+        'Están definidos por las diferentes fases o etapas por las que un producto pasa, de modo que su propiedad va pasando de unas manos a otras. Desde el fabricante al consumidor o usuario final (Galán, 2021).',
     },
     {
       termino: 'EOQ (cantidad económica del pedido)',
       significado:
-        'Por las siglas de su nombre en inglés (<em>Economic Order Quantity</em>) es un modelo matemático que sirve para calcular el tamaño óptimo de cada pedido de materia prima. Esto, buscando la mayor eficiencia. (Westreicher, Economipedia, 2020).',
+        'Por las siglas de su nombre en inglés (<em>Economic Order Quantity</em>) es un modelo matemático que sirve para calcular el tamaño óptimo de cada pedido de materia prima. Esto, buscando la mayor eficiencia (Westreicher, Economipedia, 2020).',
     },
     {
       termino: 'Gestión de inventarios',
       significado:
-        'Es la administración respecto al ingreso y salida de insumos, productos terminados o semiterminados, bienes auxiliares y herramientas que posee una empresa. (Westreicher, Economipedia, 2020).',
+        'Es la administración respecto al ingreso y salida de insumos, productos terminados o semiterminados, bienes auxiliares y herramientas que posee una empresa (Westreicher, Economipedia, 2020).',
     },
     {
       termino: 'Inventario final',
       significado:
-        'Es aquel que se registra al terminar un ejercicio contable, previo control de entradas y salidas de existencias. (Llamas, Economipedia, 2020).',
+        'Es aquel que se registra al terminar un ejercicio contable, previo control de entradas y salidas de existencias (Llamas, Economipedia, 2020).',
     },
     {
       termino: 'Inventario inicial',
       significado:
-        'Es aquel que se registra al comienzo de un ejercicio contable, previo cálculo de variaciones de este al final del ejercicio anterior. (Llamas, Economipedia, 2020).',
+        'Es aquel que se registra al comienzo de un ejercicio contable, previo cálculo de variaciones de este al final del ejercicio anterior (Llamas, Economipedia, 2020).',
     },
     {
       termino: '<em>Just in time</em>',
@@ -158,37 +158,37 @@ export default {
     {
       termino: 'Lote',
       significado:
-        'Es una forma de agrupación de activos o instrumentos financieros y valores equivalentes en la mayoría de los casos a cien unidades de estos. A menudo la misma permite su posibilidad de traspaso en los mercados. (Javier Sánchez Galán, Economipedia, 2020).',
+        'Es una forma de agrupación de activos o instrumentos financieros y valores equivalentes en la mayoría de los casos a cien unidades de estos. A menudo la misma permite su posibilidad de traspaso en los mercados (Javier Sánchez Galán, Economipedia, 2020).',
     },
     {
       termino: 'Materia prima',
       significado:
-        'También conocido como bien intermedio, es todo bien que es transformado durante un proceso de producción hasta convertirse en un bien de consumo. (Caballero, Economipedia, 2015).',
+        'También conocido como bien intermedio, es todo bien que es transformado durante un proceso de producción hasta convertirse en un bien de consumo (Caballero, Economipedia, 2015).',
     },
     {
       termino: 'Mercancía',
       significado:
-        'Es cualquier objeto factible de ser comercializado o intercambiado en el mercado. Se caracteriza por poder satisfacer alguna necesidad del consumidor. (Westreicher, Economipedia, 2020).',
+        'Es cualquier objeto factible de ser comercializado o intercambiado en el mercado. Se caracteriza por poder satisfacer alguna necesidad del consumidor (Westreicher, Economipedia, 2020).',
     },
     {
       termino: 'Orden de compra',
       significado:
-        'También llamada orden de pedido o nota de pedido, es un documento mediante el cual el comprador solicita mercancías al vendedor. (Rus, Economipedia.com,2020).',
+        'También llamada orden de pedido o nota de pedido, es un documento mediante el cual el comprador solicita mercancías al vendedor (Rus, Economipedia.com,2020).',
     },
     {
       termino: 'Rotación de inventario',
       significado:
-        'Es una práctica de <em>marketing</em> y la dirección estratégica que consiste en el control de los productos desde el punto logístico, por medio de las veces por periodo de tiempo que se renuevan las existencias. (Javier Sánchez Galán, Economipedia, 2020).',
+        'Es una práctica de <em>marketing</em> y la dirección estratégica que consiste en el control de los productos desde el punto logístico, por medio de las veces por periodo de tiempo que se renuevan las existencias (Javier Sánchez Galán, Economipedia, 2020).',
     },
     {
       termino: 'Sistema de inventario',
       significado:
-        'Es el grupo de reglas y procesos que implementa una empresa para planificar y supervisar las mercancías y los materiales de los que dispone. (Westreicher, Economipedia, 2020).',
+        'Es el grupo de reglas y procesos que implementa una empresa para planificar y supervisar las mercancías y los materiales de los que dispone (Westreicher, Economipedia, 2020).',
     },
     {
       termino: 'Valoración de inventario',
       significado:
-        'Son técnicas aplicadas para valorar las unidades en almacén en términos monetarios. Esta valoración es especialmente útil cuando las unidades se van adquiriendo a distintos precios. (Marco, Economipedia, 2020).',
+        'Son técnicas aplicadas para valorar las unidades en almacén en términos monetarios. Esta valoración es especialmente útil cuando las unidades se van adquiriendo a distintos precios (Marco, Economipedia, 2020).',
     },
   ],
   referencias: [
