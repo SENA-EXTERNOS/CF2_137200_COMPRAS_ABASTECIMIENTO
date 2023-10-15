@@ -123,6 +123,9 @@
     .row.justify-content-center
       p #[b A continuación, un sencillo bosquejo de las rotaciones de inventario:]
       .col-lg-8
+        .titulo-sexto.color-acento-contenido
+            h5 Figura 2
+            p(data-aos="fade-down").mb-0 #[i Rotación de inventario]      
         figure
           img(src='@/assets/curso/temas/tema3/img6.svg', alt='Texto que describa la imagen') 
 

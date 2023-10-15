@@ -217,8 +217,7 @@ export default {
     {
       referencia:
         'Mora, L. (2011). <em>Gestión logística en centros de distribución, bodegas y almacenes</em>. Ecoe Ediciones.',
-      link:
-        'https://www.perlego.com/es/book/3459642/gestin-logstica-en-centros-de-distribucin-bodegas-y-almacenes-pdf',
+      link: '',
     },
     {
       referencia:
